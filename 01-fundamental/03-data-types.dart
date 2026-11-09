@@ -16,7 +16,7 @@ void main() {
   Set<String> hobi = {
     'Coding',
     'Membaca',
-    'Ngurus Burung'
+    'Ngurus Burung',
     'Mengajar'
   };
 

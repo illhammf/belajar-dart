@@ -5,7 +5,7 @@ void main() {
   print('==============================');
 
   // Menampilkan angka 1 sampai 10
-  for (int i = 1; i <= 10; i++) {
+  for (int i = 1; i <= 10; i++) { // ini adalah perulangan for
     print('Perulangan ke-$i');
   }
 

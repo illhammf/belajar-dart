@@ -1,3 +1,4 @@
+// Menghitung total angka 1 sampai 5
 void main() {
   int total = 0;
 

@@ -9,7 +9,7 @@ void main() {
   while (angka <= 5) {
     print('Angka ke-$angka');
 
-    angka++;
+    angka++; // artinya jika angka = angka + 1, maka nilai angka akan bertambah 1 setiap perulangan
   }
 
   print('==============================');

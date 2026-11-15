@@ -1,11 +1,12 @@
 
 void main() {
   List<String> namaMahasiswa = [
-    'Andi',
-    'Budi',
-    'Citra',
-    'Dina',
-    'Eka',
+    'Ilham',
+    'Alif',
+    'Luqman',
+    'Farell',
+    'Adit',
+    'Dafa',
   ];
 
   print('==============================');

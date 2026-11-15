@@ -1,13 +1,13 @@
-
-enum StatusPesanan {
-  menunggu,
+// digunakan untuk mendeklarasikan tipe data Enum.
+enum StatusPesanan { // StatusPesanan adalah nama Enum.
+  menunggu, // menunggu, diproses, dikirim, dan selesai merupakan pilihan yang tersedia.
   diproses,
   dikirim,
   selesai,
 }
 
 void main() {
-  StatusPesanan status = StatusPesanan.diproses;
+  StatusPesanan status = StatusPesanan.diproses; // Untuk mengambil salah satu nilainya, kita menggunakan ini
 
   print('==============================');
   print('        STATUS PESANAN');

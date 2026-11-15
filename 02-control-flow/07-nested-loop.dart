@@ -14,3 +14,14 @@ void main() {
     print('');
   }
 }
+
+/*
+Cara kerjanya:
+  1. Perulangan luar dimulai dari baris 1.
+  2. Perulangan dalam berjalan dari kolom 1 sampai 3.
+  3. Setelah kolom selesai, baris bertambah menjadi 2.
+  4. Perulangan dalam berjalan kembali dari awal.
+  5. Proses berlanjut sampai seluruh baris selesai.
+  
+Jadi, perulangan dalam akan diselesaikan terlebih dahulu sebelum perulangan luar berpindah ke putaran berikutnya.
+*/

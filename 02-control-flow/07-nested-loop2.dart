@@ -1,4 +1,4 @@
-
+#import 'dart:io';
 
 // Membuat pola bintang
 void main() {

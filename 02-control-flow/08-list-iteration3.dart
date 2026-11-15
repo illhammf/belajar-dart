@@ -7,3 +7,9 @@ void main() {
     print('Nilai: $angka');
   });
 }
+
+/*
+Cara kedua menggunakan for-in.
+
+Kita tidak perlu mengatur indeks secara manual karena Dart akan mengambil setiap elemen secara berurutan.
+*/

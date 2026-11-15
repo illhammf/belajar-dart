@@ -1,4 +1,4 @@
-#import 'dart:io';
+import 'dart:io'; // untuk menggunakan stdout.write() agar tidak ada enter di setiap output
 
 // Membuat pola bintang
 void main() {
